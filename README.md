@@ -19,7 +19,7 @@ In this assignment, we assist SellBy with a project to analyze Amazon reviews by
 Our initial dataframe after importing the dataset:
 
 
-![Amazon Vine Analysis - Total Reviews](./images/us_video_games_reviews.png)
+![Amazon Vine Analysis - US Video Game Reviews](./images/us_video_games_reviews.png)
 
 
 ## Reviews
@@ -38,14 +38,14 @@ As for 5-star reviews, there were a total of 1,026,924 five star reviews
 
 Focusing on paid (Vine) reviews, we counted 94 in total, 48 of which had 5-star ratings. 51% of all paid reviews indicated a 5-star rating.
 
-![Amazon Vine Analysis - Total Reviews](./images/total_paid_reviews.png)
+![Amazon Vine Analysis - Total Paid Reviews](./images/total_paid_reviews.png)
 
 <hr>
 <br>
 
 Lastly, 40,471 reviews were unpaid (non-Vine). 15,663 of which consisted of a 5-star rating, leading to roughly 39% of all unpaid reviews providing a 5-star rating.
 
-![Amazon Vine Analysis - Total Reviews](./images/total_unpaid_reviews.png)
+![Amazon Vine Analysis - Total Unpaid Reviews]("./images/total_unpaid_reviews.png")
 
 ## Summary
 
