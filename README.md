@@ -45,7 +45,7 @@ Focusing on paid (Vine) reviews, we counted 94 in total, 48 of which had 5-star 
 
 Lastly, 40,471 reviews were unpaid (non-Vine). 15,663 of which consisted of a 5-star rating, leading to roughly 39% of all unpaid reviews providing a 5-star rating.
 
-![Amazon Vine Analysis - Total Unpaid Reviews]("./images/total_unpaid_reviews.png")
+![Amazon Vine Analysis - Total Unpaid Reviews](./images/total_unpaid_reviews.png)
 
 ## Summary
 
