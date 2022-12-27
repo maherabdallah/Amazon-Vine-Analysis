@@ -18,7 +18,6 @@ In this assignment, we assist SellBy with a project to analyze Amazon reviews by
 
 Our initial dataframe after importing the dataset:
 
-
 ![Amazon Vine Analysis - Total Reviews](./images/us_video_games_reviews.png)
 
 
